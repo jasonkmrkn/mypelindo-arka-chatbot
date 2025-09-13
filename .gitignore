@@ -1,3 +1,4 @@
 .env
 /db_chroma
 /.vscode
+cek_model.py
